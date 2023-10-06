@@ -326,6 +326,7 @@ printf("\nAvg turn around time is %5.2f",atat);
 ```````
 # OUTPUT:
 ![EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS](3.png)
+
 # RESULT: 
 Round Robin (RR) Scheduling is implemented successfully.
 
